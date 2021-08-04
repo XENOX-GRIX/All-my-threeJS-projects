@@ -12,7 +12,7 @@ npm install
 npm run dev
 
 # Project_1_Solar_System video link : 
-https://www.youtube.com/watch?v=3_PH6I91_ig
+<a href="https://www.youtube.com/watch?v=3_PH6I91_ig">Click here
 
 # Project_2_Floating_Text video link : 
 https://youtu.be/1KUyvWnbRHo
